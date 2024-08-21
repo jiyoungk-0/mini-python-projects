@@ -10,6 +10,7 @@ Here’s a brief overview of the types of projects you'll find in this repositor
 
 - **Beginner Projects**: Simple scripts covering basic Python topics like loops, conditionals, functions, and data structures.
    - **Random Password Generator**: A Python script that generates strong, random passwords with customizable length and character sets.
+   - **QR Code Generator**: A Python script that creates QR codes from given text and saves them as PNG images.
 
 - **Intermediate Projects**: Projects that involve libraries, file handling, and slightly more complex logic.
 
