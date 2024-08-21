@@ -14,5 +14,6 @@ Here’s a brief overview of the types of projects you'll find in this repositor
    - **Countdown Timer**: A Python script that counts down from a specified number of seconds and displays the remaining time in minutes and seconds, updating every second until the timer completes.
 
 - **Intermediate Projects**: Projects that involve libraries, file handling, and slightly more complex logic.
+   - **Artist Information API**: A Python script that uses the Deezer API to search for an artist and retrieve a list of similar artists. The script queries the API to get artist details and related artists, providing recommendations based on the input artist's name.   
 
 - **Advanced Projects**: More challenging exercises, possibly involving algorithms, data manipulation, or integrations with APIs.
